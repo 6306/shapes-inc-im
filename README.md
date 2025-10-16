@@ -1,5 +1,3 @@
 # shapes-inc-im
-Shapes.inc Instant Messenger
-
-
-You will need a Shapes.inc API key located here ---> https://shapes.inc/developer
+Shapes.inc Instant Messenger has been discontinued due to the shutdown of the Shapes.inc API service.
+Continue chatting on shapes.inc
